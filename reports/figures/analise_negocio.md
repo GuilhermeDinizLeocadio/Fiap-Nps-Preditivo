@@ -1,7 +1,3 @@
-Aqui está o documento com todos os traços removidos:
-
----
-
 # Análise de Negócio, NPS Preditivo
 
 > **Projeto:** Tech Challenge Fase 1, Pós-graduação em Ciência de Dados + IA (FIAP)
