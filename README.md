@@ -54,6 +54,11 @@ fiap-nps-preditivo/
 
 - [Análise de Negócio](reports/analise_negocio.md)
 
+> **Nota:** O arquivo CSV foi incluído neste repositório 
+> exclusivamente para fins educativos e reprodutibilidade. 
+> Em ambiente de produção, dados brutos não devem ser 
+> versionados no Git.
+
 ## Metodologia
 
 1. **Entendimento do negócio** — análise do problema e definição da target
