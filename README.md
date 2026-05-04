@@ -90,6 +90,11 @@ jupyter notebook
 - xgboost
 - shap
 
+## Apresentação e Vídeo
+
+- [Slides da Apresentação](reports/apresentacao_nps_preditivo.pdf)
+- [Vídeo Executivo](https://drive.google.com/file/d/1a00I94VwIAuutmfZNcsP6a-ENavLLfUq/view?usp=sharing)
+
 ## Autor
 
 Guilherme Diniz Leocadio
