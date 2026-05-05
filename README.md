@@ -39,9 +39,9 @@ fiap-nps-preditivo/
 ├── notebooks/
 │   ├── 01_eda.ipynb          # Análise exploratória
 │   ├── 02_preprocessing.ipynb
-│   └── 03_model.ipynb        # Modelo preditivo
+│  
 │
-├── models/                   # Modelos serializados (.pkl)
+├
 │
 ├── reports/
 │   ├── figures/              # Gráficos exportados
@@ -92,7 +92,7 @@ jupyter notebook
 
 ## Apresentação e Vídeo
 
-- [Slides da Apresentação](reports/apresentacao_nps_preditivo.pdf)
+- [Slides da Apresentação](reports/NPS%20PREDITIVO.pdf)
 - [Vídeo Executivo](https://drive.google.com/file/d/1a00I94VwIAuutmfZNcsP6a-ENavLLfUq/view?usp=sharing)
 
 ## Autor
